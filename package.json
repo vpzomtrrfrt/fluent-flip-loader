@@ -1,0 +1,23 @@
+{
+  "name": "fluent-flip-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vpzomtrrfrt/fluent-flip-loader.git"
+  },
+  "author": "vpzom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vpzomtrrfrt/fluent-flip-loader/issues"
+  },
+  "homepage": "https://github.com/vpzomtrrfrt/fluent-flip-loader#readme",
+  "dependencies": {
+    "flipout": "^1.0.0",
+    "fluent-syntax": "^0.6.2"
+  }
+}
